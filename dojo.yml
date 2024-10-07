@@ -1,5 +1,5 @@
-id: program-security
-name: Program Security
+id: program-exploit
+name: Program Exploitation
 
 award:
   belt: yellow
@@ -15,7 +15,7 @@ type: topic
 
 modules:
 
-- id: memory-errors
+- id: buffer-overflows
   name: Memory Errors
   description: ""
   challenges:
@@ -125,8 +125,8 @@ modules:
     content: |
       * OpenSecurityTraining2 has courses covering security vulnerabilities: [Vulnerabilities 1001](https://ost2.fyi/Vulns1001) and [Vulnerabilities 1002](https://ost2.fyi/Vulns1002).
 
-- id: program-exploitation
-  name: Program Exploitation
+- id: shellcode-injections
+  name: Shellcode Injections
   description: ""
   challenges:
   - id: level-1-0
