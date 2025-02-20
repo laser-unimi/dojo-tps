@@ -101,8 +101,3 @@ challenges:
 - id: level-15-1
   name: level15.1
   description: Defeat a stack canary in a PIE binary by utilizing a network-style fork server in the target binary.
-resources:
-- name: Doc
-  type: markdown
-  content: |
-    * OpenSecurityTraining2 has courses covering security vulnerabilities: [Vulnerabilities 1001](https://ost2.fyi/Vulns1001) and [Vulnerabilities 1002](https://ost2.fyi/Vulns1002).
