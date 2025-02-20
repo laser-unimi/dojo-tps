@@ -1,4 +1,4 @@
-name: Program Exploitation
+name: Shellcode Injection
 description: ""
 challenges:
 - id: level-1-0

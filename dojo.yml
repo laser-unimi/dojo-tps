@@ -6,7 +6,12 @@ award:
   belt: yellow
 
 description: |
-  Esercizi per il corso di Tecniche di protezione del Software A.A. 2024/25
+  Esercizi per il corso di Tecniche di protezione del Software A.A. 2024/25.
+  Materiale utile per il corso:
+  * [GDB CheatSheet](https://nextcloud.laser.di.unimi.it/s/riwx7MWgYwKDmCN)
+  * [Pwntools CheatSheet](https://nextcloud.laser.di.unimi.it/s/wDWLGkiHpwsrSM9)
+  * [Syscall table](https://nextcloud.laser.di.unimi.it/s/qp8DQjwLX34DiAA)
+  * [x64 ASM CheatSheet](https://nextcloud.laser.di.unimi.it/s/PTe98jmZRrcxCd7)
 type: topic
 
 modules:

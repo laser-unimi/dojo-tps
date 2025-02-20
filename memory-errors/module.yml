@@ -1,4 +1,4 @@
-name: Memory Errors
+name: Buffer Overflow
 description: ""
 challenges:
 - id: level-1-0
