@@ -37,34 +37,34 @@ challenges:
 - id: level-6-1
   name: level6.1
   description: Write a full exploit involving injecting shellcode, reverse engineering, seccomp, and a method of tricking the challenge into executing your payload.
-- id: level-7-0
-  name: level7.0
-  description: Write a full exploit for a custom VM involving injecting shellcode and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.  Note, ASLR is disabled!
-- id: level-7-1
-  name: level7.1
-  description: Write a full exploit for a custom VM involving injecting shellcode and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.  Note, ASLR is disabled!
-- id: level-8-0
-  name: level8.0
-  description: Write a full exploit for a custom VM involving injecting shellcode, and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.
-- id: level-8-1
-  name: level8.1
-  description: Write a full exploit for a custom VM involving injecting shellcode, and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.
-- id: level-9-0
-  name: level9.0
-  description: 'Provide your own Yan85 shellcode! This time, it''s filtered '
-- id: level-9-1
-  name: level9.1
-  description: 'Provide your own Yan85 shellcode! This time, it''s filtered '
-- id: level-10-0
-  name: level10.0
-  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode.
-- id: level-10-1
-  name: level10.1
-  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode.
-- id: level-11-0
-  name: level11.0
-  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode. Now updated for modern hardware!
-- id: level-11-1
-  name: level11.1
-  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode. Now updated for modern hardware!
+#- id: level-7-0
+#  name: level7.0
+#  description: Write a full exploit for a custom VM involving injecting shellcode and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.  Note, ASLR is disabled!
+#- id: level-7-1
+#  name: level7.1
+#  description: Write a full exploit for a custom VM involving injecting shellcode and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.  Note, ASLR is disabled!
+#- id: level-8-0
+#  name: level8.0
+#  description: Write a full exploit for a custom VM involving injecting shellcode, and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.
+#- id: level-8-1
+#  name: level8.1
+#  description: Write a full exploit for a custom VM involving injecting shellcode, and a method of tricking the challenge into executing it by locating and utilizing a bug in the challenge.
+#- id: level-9-0
+#  name: level9.0
+#  description: 'Provide your own Yan85 shellcode! This time, it''s filtered '
+#- id: level-9-1
+#  name: level9.1
+#  description: 'Provide your own Yan85 shellcode! This time, it''s filtered '
+#- id: level-10-0
+#  name: level10.0
+#  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode.
+#- id: level-10-1
+#  name: level10.1
+#  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode.
+#- id: level-11-0
+#  name: level11.0
+#  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode. Now updated for modern hardware!
+#- id: level-11-1
+#  name: level11.1
+#  description: The ultimate Yan85 challenge. Provide your own Yan85 shellcode. Now updated for modern hardware!
 
